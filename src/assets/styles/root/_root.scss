@@ -1,0 +1,31 @@
+@import '../fonts/fonts';
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+} 
+
+.img-width {
+  width: 22px !important;
+  margin-right: 15px;
+}
+
+.flat__title {
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+}
+
+.flat__img-text {
+  font-family: 'Raleway';
+  font-weight: 600;
+  font-size: 13px;
+  width: 100%;
+
+  color: #39393A;
+}
